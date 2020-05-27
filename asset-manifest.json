@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactCountMoney/static/css/main.d2b01ef2.chunk.css",
+    "main.js": "/reactCountMoney/static/js/main.d9312804.chunk.js",
+    "main.js.map": "/reactCountMoney/static/js/main.d9312804.chunk.js.map",
+    "runtime-main.js": "/reactCountMoney/static/js/runtime-main.d0981a1d.js",
+    "runtime-main.js.map": "/reactCountMoney/static/js/runtime-main.d0981a1d.js.map",
+    "static/css/2.6e4ecd25.chunk.css": "/reactCountMoney/static/css/2.6e4ecd25.chunk.css",
+    "static/js/2.e5c5e3f0.chunk.js": "/reactCountMoney/static/js/2.e5c5e3f0.chunk.js",
+    "static/js/2.e5c5e3f0.chunk.js.map": "/reactCountMoney/static/js/2.e5c5e3f0.chunk.js.map",
+    "index.html": "/reactCountMoney/index.html",
+    "precache-manifest.4a313a64251de8927cb115e428f93588.js": "/reactCountMoney/precache-manifest.4a313a64251de8927cb115e428f93588.js",
+    "service-worker.js": "/reactCountMoney/service-worker.js",
+    "static/css/2.6e4ecd25.chunk.css.map": "/reactCountMoney/static/css/2.6e4ecd25.chunk.css.map",
+    "static/css/main.d2b01ef2.chunk.css.map": "/reactCountMoney/static/css/main.d2b01ef2.chunk.css.map",
+    "static/js/2.e5c5e3f0.chunk.js.LICENSE.txt": "/reactCountMoney/static/js/2.e5c5e3f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0981a1d.js",
+    "static/css/2.6e4ecd25.chunk.css",
+    "static/js/2.e5c5e3f0.chunk.js",
+    "static/css/main.d2b01ef2.chunk.css",
+    "static/js/main.d9312804.chunk.js"
+  ]
+}
